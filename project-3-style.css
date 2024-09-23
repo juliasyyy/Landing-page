@@ -170,7 +170,7 @@ a {
     text-align: left;
     }
 
-/*@media only screen and (min-width: 768px) {
+/*@media only screen and (max-width: 360px) {
     .zara-logo {
         display: block;
         max-width: 100px;
@@ -186,9 +186,4 @@ a {
         grid-template-columns: 1fr 1fr;
     }
 
-
-@media only screen and (min-width: 1024px){
-    .item {
-        grid-template-columns: repeat(3, 1fr);
-    }
 }
